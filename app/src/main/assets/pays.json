@@ -1,0 +1,330 @@
+{
+  "pays": [
+    {
+      "code":    "AD",
+      "nom":     "Andorre",
+      "prefixe": "",
+      "wiki":    "https://fr.wikipedia.org/wiki/Andorra"
+    },
+
+    {
+      "code":    "AL",
+      "nom":     "Albanie",
+      "prefixe": "",
+      "wiki":    "https://fr.wikipedia.org/wiki/Albanie"
+    },
+
+    {
+      "code":    "AM",
+      "nom":     "Arménie",
+      "prefixe": "",
+      "wiki":    "https://fr.wikipedia.org/wiki/Arm%C3%A9nie"
+    },
+
+    {
+      "code":    "AT",
+      "nom":     "Autriche",
+      "prefixe": "",
+      "wiki":    "https://fr.wikipedia.org/wiki/Autriche"
+    },
+
+
+    {
+      "code":    "BE",
+      "nom":     "Belgique",
+      "prefixe": "",
+      "wiki":    "https://fr.wikipedia.org/wiki/Belgique"
+    },
+
+    {
+      "code":    "BG",
+      "nom":     "Bulgarie",
+      "prefixe": "",
+      "wiki":    "https://fr.wikipedia.org/wiki/Bulgarie"
+    },
+
+    {
+      "code":    "CH",
+      "nom":     "Suisse",
+      "prefixe": "",
+      "wiki":    "https://fr.wikipedia.org/wiki/Suisse"
+    },
+
+    {
+      "code":    "CY",
+      "nom":     "Chypre",
+      "prefixe": "",
+      "wiki":    "https://fr.wikipedia.org/wiki/Chypre_(pays)"
+    },
+
+    {
+      "code":    "DE",
+      "nom":     "Allemagne",
+      "prefixe": "",
+      "wiki":    "https://fr.wikipedia.org/wiki/Allemagne"
+    },
+
+    {
+      "code":    "DK",
+      "nom":     "Danemark",
+      "prefixe": "",
+      "wiki":    "https://fr.wikipedia.org/wiki/Danemark"
+    },
+
+    {
+      "code":    "EE",
+      "nom":     "Estonie",
+      "prefixe": "",
+      "wiki":    "https://fr.wikipedia.org/wiki/Estonie"
+    },
+
+    {
+      "code":    "ES",
+      "nom":     "Espagne",
+      "prefixe": "",
+      "wiki":    "https://fr.wikipedia.org/wiki/Espagne"
+    },
+
+    {
+      "code":    "EU",
+      "nom":     "Europe",
+      "prefixe": "",
+      "wiki":    "https://fr.wikipedia.org/wiki/Europe"
+    },
+
+    {
+      "code":    "FI",
+      "nom":     "Finlande",
+      "prefixe": "",
+      "wiki":    "https://fr.wikipedia.org/wiki/Finlande"
+    },
+
+    {
+      "code":    "FR",
+      "nom":     "France",
+      "prefixe": "",
+      "wiki":    "https://fr.wikipedia.org/wiki/France"
+    },
+
+    {
+      "code":    "GBENG",
+      "nom":     "Angleterre",
+      "prefixe": "",
+      "wiki":    "https://fr.wikipedia.org/wiki/Angleterre"
+    },
+
+    {
+      "code":    "GBSCT",
+      "nom":     "Écosse",
+      "prefixe": "",
+      "wiki":    "https://fr.wikipedia.org/wiki/%C3%89cosse"
+    },
+
+    {
+      "code":    "GB",
+      "nom":     "Grande Bretagne",
+      "prefixe": "",
+      "wiki":    "https://fr.wikipedia.org/wiki/Grande-Bretagne_(royaume)"
+    },
+
+    {
+      "code":    "GR",
+      "nom":     "Grèce",
+      "prefixe": "",
+      "wiki":    "https://fr.wikipedia.org/wiki/Gr%C3%A8ce"
+    },
+
+    {
+      "code":    "HR",
+      "nom":     "Croatie",
+      "prefixe": "",
+      "wiki":    "https://fr.wikipedia.org/wiki/Croatie"
+    },
+
+
+    {
+      "code":    "HU",
+      "nom":     "Hongrie",
+      "prefixe": "",
+      "wiki":    "https://fr.wikipedia.org/wiki/Hongrie"
+    },
+
+    {
+      "code":    "IE",
+      "nom":     "Irlande",
+      "prefixe": "",
+      "wiki":    "https://fr.wikipedia.org/wiki/Irlande_(pays)"
+    },
+
+    {
+      "code":    "IS",
+      "nom":     "Islande",
+      "prefixe": "",
+      "wiki":    "https://fr.wikipedia.org/wiki/Islande"
+    },
+
+    {
+      "code":    "IT",
+      "nom":     "Italie",
+      "prefixe": "",
+      "wiki":    "https://fr.wikipedia.org/wiki/Italie"
+    },
+
+    {
+      "code":    "LI",
+      "nom":     "Liechtenstein",
+      "prefixe": "",
+      "wiki":    "https://fr.wikipedia.org/wiki/Liechtenstein"
+    },
+
+    {
+      "code":    "LT",
+      "nom":     "Lituanie",
+      "prefixe": "",
+      "wiki":    "https://fr.wikipedia.org/wiki/Lituanie"
+    },
+
+    {
+      "code":    "LU",
+      "nom":     "Luxembourg",
+      "prefixe": "",
+      "wiki":    "https://fr.wikipedia.org/wiki/Luxembourg"
+    },
+
+    {
+      "code":    "LV",
+      "nom":     "Lettonie",
+      "prefixe": "",
+      "wiki":    "https://fr.wikipedia.org/wiki/Lettonie"
+    },
+
+    {
+      "code":    "MC",
+      "nom":     "Monaco",
+      "prefixe": "Principauté de",
+      "wiki":    "https://fr.wikipedia.org/wiki/Monaco"
+    },
+
+    {
+      "code":    "MD",
+      "nom":     "Moldavie",
+      "prefixe": "République de",
+      "wiki":    "https://fr.wikipedia.org/wiki/Moldavie"
+    },
+
+    {
+      "code":    "ME",
+      "nom":     "Montenegro",
+      "prefixe": "",
+      "wiki":    "https://fr.wikipedia.org/wiki/Mont%C3%A9n%C3%A9gro"
+    },
+
+    {
+      "code":    "MT",
+      "nom":     "Malte",
+      "prefixe": "République de",
+      "wiki":    "https://fr.wikipedia.org/wiki/Malte"
+    },
+
+    {
+      "code":    "NL",
+      "nom":     "Pays-Bas",
+      "prefixe": "",
+      "wiki":    "https://fr.wikipedia.org/wiki/Pays-Bas"
+    },
+
+    {
+      "code":    "NO",
+      "nom":     "Norvège",
+      "prefixe": "",
+      "wiki":    "https://fr.wikipedia.org/wiki/Norv%C3%A8ge"
+    },
+
+    {
+      "code":    "PL",
+      "nom":     "Pologne",
+      "prefixe": "",
+      "wiki":    "https://fr.wikipedia.org/wiki/Pologne"
+    },
+
+    {
+      "code":    "PT",
+      "nom":     "Portugal",
+      "prefixe": "",
+      "wiki":    ""
+    },
+
+    {
+      "code":    "RO",
+      "nom":     "Roumanie",
+      "prefixe": "",
+      "wiki":    "https://fr.wikipedia.org/wiki/Roumanie"
+    },
+
+    {
+      "code":    "RS",
+      "nom":     "Serbie",
+      "prefixe": "",
+      "wiki":    "https://fr.wikipedia.org/wiki/Serbie"
+    },
+
+    {
+      "code":    "RU",
+      "nom":     "Russie",
+      "prefixe": "Fédération de",
+      "wiki":    "https://fr.wikipedia.org/wiki/Russie"
+    },
+
+
+    {
+      "code":    "SE",
+      "nom":     "Suède",
+      "prefixe": "",
+      "wiki":    "https://fr.wikipedia.org/wiki/Su%C3%A8de"
+    },
+
+    {
+      "code":    "SI",
+      "nom":     "Slovénie",
+      "prefixe": "",
+      "wiki":    "https://fr.wikipedia.org/wiki/Slov%C3%A9nie"
+    },
+
+    {
+      "code":    "SK",
+      "nom":     "Slovaquie",
+      "prefixe": "",
+      "wiki":    "https://fr.wikipedia.org/wiki/Slovaquie"
+    },
+
+    {
+      "code":    "SM",
+      "nom":     "Saint-Marin",
+      "prefixe": "",
+      "wiki":    "https://fr.wikipedia.org/wiki/Saint-Marin"
+    },
+
+
+    {
+      "code":    "UA",
+      "nom":     "Ukraine",
+      "prefixe": "",
+      "wiki":    "https://fr.wikipedia.org/wiki/Ukraine"
+    },
+
+    {
+      "code":    "VA",
+      "nom":     "Vatican",
+      "prefixe": "État de la Cité Sainte du",
+      "wiki":    "https://fr.wikipedia.org/wiki/Vatican"
+    },
+
+    {
+      "code":    "XK",
+      "nom":     "Kosovo",
+      "prefixe": "",
+      "wiki":    "https://fr.wikipedia.org/wiki/Kosovo"
+    }
+
+  ]
+}
